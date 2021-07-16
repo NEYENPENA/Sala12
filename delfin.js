@@ -8,3 +8,7 @@ var saludarDelfin = function () {
      return 'Hola, ' + nombre + ' ' + apellido + '!';
  }
  console.log(saludarDelfin());
+
+ for (let i = 1; i <= 7; i++) {
+    
+    console.log("Estoy dando la vuelta " + i );}
